@@ -1,5 +1,5 @@
 import Text.Printf
-import Kattis (fibs)
+import Challenge (fibs)
 
 main = do
   line <- getLine

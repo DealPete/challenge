@@ -1,4 +1,4 @@
-import Kattis (matrixify)
+import Challenge (matrixify)
 import Control.Monad
 import Data.List (transpose)
 

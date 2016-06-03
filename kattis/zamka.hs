@@ -1,4 +1,4 @@
-import Kattis (digitSum)
+import Challenge (digitSum)
 
 main = do
   strl <- getLine

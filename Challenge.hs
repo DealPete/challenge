@@ -1,4 +1,4 @@
-module Kattis where
+module Challenge where
 
 import Data.Char (digitToInt)
 
